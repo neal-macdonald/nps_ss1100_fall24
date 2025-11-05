@@ -7,9 +7,10 @@ def calculate_rotation(current_orientation, target_orientation):
     Calculates the required rotation to move from the current orientation
     to the target orientation.
     """
-    # YOUR CODE HERE
+    ########## YOUR CODE HERE ############
     # This function should return a tuple of (x_correction, y_correction, z_correction)
-    return (0, 0, 0)
+    return (0, 0, 0) # Placeholder - replace with your code
+    ########## END OF YOUR CODE ##########
 
 def main():
     """
